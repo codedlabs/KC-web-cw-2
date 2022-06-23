@@ -7,7 +7,7 @@
 نبي نتعرف عليك من هذا التمرين</p>
 <h1></h1>
 <p dir="rtl">
- <strong><a href="https://docs.google.com/document/d/1stcvqGYWDplD6eUdKk-LS_OkbApIlOyDXrQJ3rbIBoc/edit">الجزء الاول</a></strong></p>
+ <strong>الجزء الاول</strong></p>
 
 
 
@@ -28,7 +28,7 @@
 
 <h1></h1>
 <p dir="rtl">
-<strong><a href="https://docs.google.com/document/d/1sA89c0LxxoBCoTHY9UvwdLftiFQ1g3EhAYEMoltLLTg/edit#">الجزء الثاني</a></strong></p>
+<strong>الجزء الثاني</strong></p>
 
 
 
